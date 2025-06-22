@@ -32,10 +32,6 @@ system/product/etc/device_features/
 
 - Make sure the path and filename match exactly for proper integration in the build system.
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 [Fakeri](https://github.com/fakerieh)
