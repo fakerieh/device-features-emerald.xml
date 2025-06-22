@@ -30,7 +30,6 @@ system/product/etc/device_features/
 
 ## ⚠️ Notes
 
-- This file is **device-specific** and should not be used for other devices.
 - Make sure the path and filename match exactly for proper integration in the build system.
 
 ## 📃 License
