@@ -17,7 +17,6 @@ system/product/etc/device_features/emerald.xml
 ## 🔧 Purpose
 
 This file defines hardware and software feature flags used by the Android system to configure behavior specific to the device.  
-It is essential for proper functionality and compatibility of system components, particularly within AOSP-based ROMs or custom builds.
 
 ## 📥 Usage
 
